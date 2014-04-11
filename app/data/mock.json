@@ -1,0 +1,43 @@
+[
+    {
+        "merchandise": {
+            "id": 1,
+            "sku": "abc-123",
+            "price": "24.99"
+        },
+        "quantity": 4
+    },
+    {
+        "merchandise": {
+            "id": 2,
+            "sku": "aqw-345",
+            "price": "4.99"
+        },
+        "quantity": 2
+    },
+    {
+        "merchandise": {
+            "id": 3,
+            "sku": "ert-678",
+            "price": "78.99"
+        },
+        "quantity": 1
+    },
+    {
+        "merchandise": {
+            "id": 4,
+            "sku": "poi-978",
+            "price": "44.99"
+        },
+        "quantity": 4
+    },
+    {
+        "merchandise": {
+            "id": 5,
+            "sku": "eee-333",
+            "price": "2.99"
+        },
+        "quantity": 12
+    }
+
+]

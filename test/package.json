@@ -1,0 +1,9 @@
+{
+  "name": "CartUnitTesting",
+  "description": "unit testing example",
+  "version": "0.0.1",
+  "devDependencies": {
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.3"
+  }
+}

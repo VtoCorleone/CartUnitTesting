@@ -8,8 +8,6 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "angular": "~1.2.15",
-    "angular-ui-router": "~0.2.10",
-    "moment": "~2.5.1"
+    "karma": "~0.2.2"
   }
 }
